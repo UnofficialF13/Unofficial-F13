@@ -1,23 +1,13 @@
-##Fallout 13 Beta 0.1
+##Unofficial Fallout 13 Roleplay
 
-**Website:** https://www.reddit.com/r/Fallout13
+**Main source code:** https://github.com/ZimZam0/Unofficial-Fallout-13-Roleplay
 
-**Main source code:** https://bitbucket.org/Jackerzz/fallout-13/
-
-**Discord:**  https://discord.me/fallout13official
+**Discord:**  https://discord.gg/dyhzRny
 
 ##Terms of service
 
-A friendly reminder to anyone who would like to create personal edition of a game to host a server while keeping the code base private - a source code is licensed under /tg/ Station 13 terms, and thus rendering your project closed-source will likely cause considerable sanctions on their behalf. Honestly, we tried it ourselves - it didn't work, and Byond administration officially disabled one of our servers for violation of licensing terms - don't repeat our mistakes.
+A friendly reminder to anyone who would like to create personal edition of a game to host a server while keeping the code base private - a source code is licensed under /tg/ Station 13 terms, and thus rendering your project closed-source will likely cause considerable sanctions on their behalf.
 
-**Please carefully read the following statement:**
-
-If you desire to host your own server based of Fallout 13 source code - you may not pretend to be an "Official Fallout 13" community.
-
-*The only Fallout 13 communities that are considered official at the moment are specified as:*
-
-1. [EN] Fallout 13 - Vault One
-2. [RU] Fallout 13 - CBET ATOMA ( Light of the Atom )
 
 **By our terms and conditions we require any potential host to specify that they are an unofficial server in announcements and the Byond HUB.**
 
@@ -27,11 +17,11 @@ Stated terms of service fully comply with the original AGPL v3 license of /tg/ S
 
 **Code:**
 
-Jackerzz aka Maxyo, Mattroks101, Godsring, Sarumyn, ChowderMcArthor, Tmad40blue, Pahomlancer, KorPhaeron, RemieRichards, WB, AnturK, BartNixon, A3lex33, Gyaviste, Hold_Me_Please.
+Jackerzz aka Maxyo, Mattroks101, Godsring, Sarumyn, ChowderMcArthor, Tmad40blue, Pahomlancer, KorPhaeron, RemieRichards, WB, AnturK, BartNixon, A3lex33, Gyaviste, Hold_Me_Please, Sheepish, ZimZam, Wolf, and Mike.
 
 **Graphics / Sprites / Icons:**
 
-Ivan_mrr, Nienhaus, Llego_man007, WalterJe, Danowar, Superballs, Fo4an, Hankkits, MrSnapwalk, BartNixon, Uboaaaaaa, BlackJack22, Nikston, Omen111, Talamus, The_Harvester, Lydee, Murmillo, HITHISISFRONK, DoctorWho08, Alexlox.
+Ivan_mrr, Nienhaus, Llego_man007, WalterJe, Danowar, Superballs, Fo4an, Hankkits, MrSnapwalk, BartNixon, Uboaaaaaa, BlackJack22, Nikston, Omen111, Talamus, The_Harvester, Lydee, Murmillo, HITHISISFRONK, DoctorWho08, Alexlox, ZimZam, Wolf, Daweh, and Mike.
 
 **Origins:**
 
