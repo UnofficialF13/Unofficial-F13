@@ -1,0 +1,26 @@
+<!-- Most valid html will work in here, excluding images. -->
+
+<h1>Welcome to Fallout 13 Roleplay</h1>
+
+<i><b>We claim absolutely no copyright over Fallout 13 or the game franchise in general. Please support the official developers, as they are responsible for the product you see.
+https://bitbucket.org/Jackerzz/fallout-13 </b></i>
+
+<b>We've got very simple, bare-bones minimal rules and it's required you follow them for the majority of players to have a good experience.
+
+Use common sense when you roleplay. Your idea of roleplay may be wordlessly walking up to someone as a Legion recruit and killing them, but that'll get you into hot water pretty quickly. Use your best judgment to decide between self defense and outright stupidity.
+
+If you roleplay a raider or Legion of any kind, don't assume it's a license to be a cuck. This generally applies to all factions, but it really applies here. Other servers may have differing say on this, but let's clarify that you're not allowed to shoot another faction on sight - regardless of if it's a Legion/NCR standoff. All factions are expected to have some sort of roleplay before murderbone.
+
+When roleplaying a raider, you ARE allowed to steal from other players or hold them up, but try your best not to just gun them down in cold blood. It leaves a bad taste in most people's mouths and leads to a lot of he-said she-said crap.
+
+Draw the line between self defense and being overly aggressive. This should be the most simple thing on the list, don't automatically gun someone down for walking past you or walking on the same street until it's evident they're attempting to harm you. Don't be dumb, dumbass.
+
+Respawning as the exact same character, having meta knowledge of your previous life, or returning to get your stuff immediately after death is a bannable offense. On that note, refrain from borderline down syndrome/meme names; that'll get you banned even quicker.
+
+Most importantly, enjoy yourself. You've got a playground to explore and guns galore, and if you're never quite sure about a rule or if you're having an issue ingame, AHelp it or ask a staff member in the Discord and we'll be happy to get back to you.</b>
+
+<i>REGARDING ERP: Keep it consensual and private. Rape will not be tolerated in any form, and forcing it on other players will get you permabanned.</i>
+<i>Staff have final say,but don't hesitate to AHelp if you feel you were treated unjustly, or join our Discord for a ban appeal: https://discord.gg/gwZTD4H .</i>
+
+<i>Majorly special thanks to Memeopolis/Kachnov for helping us implement the aiming system</i>
+<i>Props to Comrade Sully for our title screen. He's lit</i>
